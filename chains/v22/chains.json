@@ -8023,8 +8023,8 @@
         ],
         "nodes": [
             {
-                "url": "wss://polkadot-mythos-rpc.polkadot.io",
-                "name": "Parity node",
+                "url": "wss://mythos-rpc.dmarket.com",
+                "name": "DMarket node",
                 "features": [
                     "noTls12"
                 ]
